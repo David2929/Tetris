@@ -154,8 +154,8 @@ function getRandomPiece()
 		case 1: piece = new BlockPiece();		break;
 		case 2: piece = new ZPiece();			break;
 		case 3: piece = new TPiece();			break;
-		case 4: piece = new ReverseLPiece();	break;
-		case 5: piece = new ReverseZPiece(); 	break;
+		case 4: piece = new ReverseLPiece();		break;
+		case 5: piece = new ReverseZPiece(); 		break;
 		case 6: piece = new LinePiece();		break;
 	}
 
